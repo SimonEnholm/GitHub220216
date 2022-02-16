@@ -1,0 +1,5 @@
+public class NewFile { 
+    public static void newfile(String[] args){
+    System.out.println("Hello newfile!")
+    } 
+} 
